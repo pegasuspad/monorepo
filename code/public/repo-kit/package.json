@@ -1,6 +1,6 @@
 {
   "name": "@pegasuspad/repo-kit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Opinionated CLI utilities for maintaining monorepos",
   "type": "module",
   "bin": {
